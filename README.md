@@ -1,4 +1,4 @@
-# 🧠 Skin Disease Detection Using Vision Transformer (ViT)
+# Skin Disease Detection Using Vision Transformer (ViT)
 
 > **An AI-powered system that detects and classifies skin diseases using deep learning and transformer-based architecture for accurate and early diagnosis.**
 
