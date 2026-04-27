@@ -103,7 +103,7 @@ This project demonstrates the effectiveness of **Vision Transformer (ViT)** in m
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Useful Resources
 - Dataset: DermNet (Kaggle)  
 - Deep Learning Resources  
 - Medical Imaging Research Papers  
